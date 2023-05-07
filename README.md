@@ -9,20 +9,13 @@ This is a Python voice assistant that uses both OpenAI's 3.5 turbo model and Bin
 
 *Note: You will need to have access to the Bing AI search function to utilize this feature.*
 
-## Table of Contents
-
-- [Setup](#setup)
-  - [Quick Setup](#quick-setup)
-
 ## Setup
 The setup for this project is relatively simple and has a detailed [youtube tutorial](https://youtu.be/aokn48vB0kc), which briefly explains how the program works as well as providing a detailed installation guide.
 
 ### Install and Setup
-0. Install python 3 version if not already installed and run ```cd path\to\repository``` then ``` pip install -r requirements.txt``` 
-
 1. install ffmpeg from their [website](https://ffmpeg.org/download.html), or by running ```sudo apt update && sudo apt install ffmpeg``` on Linux
 
-2. Click the green ```Code``` button then ```Download ZIP```. After downloading, unzip the file and copy the path to the folder that has the main.py file in it. Alternatively run ```git clone https://github.com/Ai-Austin/Bing-GPT-Voice-Assistant.git``` if you have installed git on your device, 
+2. Click the green ```Code``` button then ```Download ZIP```. After downloading, unzip the file and copy the path to the folder that has the main.py file in it. Alternatively run ```git clone https://github.com/senad-d/Voice-Assistant.git``` if you have installed git on your device, 
 
 3. To set up the AI's for response generation, use the steps outlined from the [video](https://youtu.be/aokn48vB0kc?t=119) to setup the cookies.json file and follow the steps for creating an [OpenAI key](https://youtu.be/aokn48vB0kc?t=444) and putting it in the program where prompted.
 
